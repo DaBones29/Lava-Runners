@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lava Runners",
+"dataUrl": "WebGL Lava Runners.data.unityweb",
+"asmCodeUrl": "WebGL Lava Runners.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Lava Runners.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Lava Runners.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
